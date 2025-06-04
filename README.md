@@ -21,4 +21,4 @@ This is a simple interest calculator designed to help users compute the total in
   - 🔁 **Reset** — clears all input and output fields.
 
 ## 📌 Interest Calculation Formula
-
+#### Interest = (Time in days / 365) × Interest Rate × Initial Amount
