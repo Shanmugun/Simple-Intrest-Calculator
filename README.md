@@ -29,7 +29,7 @@ This is a simple interest calculator designed to help users compute the total in
 You can install the **SimpleInterestCalc** app on your Android device by following these steps:
 
 1. **Download the APK file**
-   - [Click here to download the APK](./path-to-your-apk-file.apk)  
+   - [Click here to download the APK](./Intrest_Calculator.apk)  
      *(Replace the link above with the actual APK file path or GitHub release URL)*
 
 2. **Enable "Unknown Sources"**
